@@ -1,0 +1,4 @@
+[INFO] 21:41:42:72 kernel.c/(2496:2496): Se conecto con la MSP correctamente
+[INFO] 21:54:15:974 kernel.c/(3341:3341): Se conecto con la MSP correctamente
+[INFO] 22:03:06:331 kernel.c/(3341:3342): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 22:04:01:147 kernel.c/(3341:3342): Se interrumpió CPU en socket 7

@@ -1,0 +1,212 @@
+[INFO] 18:45:26:317 kernel.c/(7452:7452): Se conecto con la MSP correctamente
+[INFO] 18:50:26:155 kernel.c/(7970:7970): Se conecto con la MSP correctamente
+[INFO] 18:47:51:994 kernel.c/(2049:2049): Se conecto con la MSP correctamente
+[INFO] 18:57:49:797 kernel.c/(2355:2355): Se conecto con la MSP correctamente
+[INFO] 19:05:00:502 kernel.c/(2779:2779): Se conecto con la MSP correctamente
+[INFO] 19:25:06:540 kernel.c/(3423:3423): Se conecto con la MSP correctamente
+[INFO] 19:28:43:506 kernel.c/(3423:3424): Se interrumpió CPU en socket 8
+[INFO] 11:31:55:833 kernel.c/(2602:2602): Se conecto con la MSP correctamente
+[ERROR] 11:32:20:97 kernel.c/(2622:2622): No se pudo conectar a la MSP correctamente
+[INFO] 11:32:45:909 kernel.c/(2636:2636): Se conecto con la MSP correctamente
+[INFO] 11:34:42:729 kernel.c/(2636:2637): Se interrumpió CPU en socket 7
+[INFO] 17:03:32:889 kernel.c/(2899:2899): Se conecto con la MSP correctamente
+[INFO] 17:06:12:998 kernel.c/(2899:2900): Se interrumpió CPU en socket 7
+[INFO] 17:10:16:778 kernel.c/(3321:3321): Se conecto con la MSP correctamente
+[INFO] 17:19:04:473 kernel.c/(3321:3322): Se interrumpió CPU en socket 8
+[ERROR] 17:19:04:473 kernel.c/(3321:3322): Se interrumpio el proceso con el PID: 3 debido a que la CPU  en el socket: 8 esta caida
+[INFO] 17:22:53:608 kernel.c/(3953:3953): Se conecto con la MSP correctamente
+[INFO] 17:24:22:370 kernel.c/(3953:3954): Se interrumpió CPU en socket 7
+[ERROR] 17:24:22:370 kernel.c/(3953:3954): Se interrumpio el proceso con el PID: 1 debido a que la CPU  en el socket: 7 esta caida
+[INFO] 17:28:18:127 kernel.c/(4321:4321): Se conecto con la MSP correctamente
+[INFO] 17:29:04:951 kernel.c/(4321:4322): Se interrumpió CPU en socket 7
+[ERROR] 17:29:04:951 kernel.c/(4321:4322): Se interrumpio el proceso con el PID: 1 debido a que la CPU  en el socket: 7 esta caida
+[ERROR] 17:37:21:105 kernel.c/(4671:4671): No se pudo conectar a la MSP correctamente
+[ERROR] 17:37:40:649 kernel.c/(4674:4674): No se pudo conectar a la MSP correctamente
+[INFO] 17:38:12:125 kernel.c/(4680:4680): Se conecto con la MSP correctamente
+[INFO] 17:38:37:951 kernel.c/(4680:4681): Se interrumpió CPU en socket 8
+[ERROR] 17:38:37:951 kernel.c/(4680:4681): Se interrumpio el proceso con el PID: 1 debido a que la CPU  en el socket: 8 esta caida
+[ERROR] 17:42:34:20 kernel.c/(5035:5035): No se pudo conectar a la MSP correctamente
+[INFO] 17:43:26:123 kernel.c/(5100:5100): Se conecto con la MSP correctamente
+[INFO] 17:45:21:11 kernel.c/(5100:5101): Se interrumpió CPU en socket 8
+[INFO] 18:05:49:630 kernel.c/(5955:5955): Se conecto con la MSP correctamente
+[ERROR] 18:06:17:916 kernel.c/(5955:5956): No existe esa primitiva. Abortando...
+[INFO] 19:52:25:163 kernel.c/(2012:2012): Se conecto con la MSP correctamente
+[INFO] 19:53:40:669 kernel.c/(2012:2013): Se interrumpió CPU en socket 7
+[INFO] 20:07:14:98 kernel.c/(2676:2676): Se conecto con la MSP correctamente
+[INFO] 20:09:01:424 kernel.c/(2676:2677): Se interrumpió CPU en socket 7
+[INFO] 20:22:51:240 kernel.c/(3496:3496): Se conecto con la MSP correctamente
+[INFO] 20:26:47:188 kernel.c/(3496:3497): Se interrumpió CPU en socket 7
+[INFO] 20:27:13:367 kernel.c/(3858:3858): Se conecto con la MSP correctamente
+[INFO] 20:31:48:85 kernel.c/(3858:3859): Se interrumpió CPU en socket 10
+[INFO] 20:49:16:884 kernel.c/(4890:4890): Se conecto con la MSP correctamente
+[INFO] 20:56:48:356 kernel.c/(4890:4891): Se interrumpió CPU en socket 12
+[INFO] 20:56:49:537 kernel.c/(4890:4891): Se interrumpió CPU en socket 10
+[INFO] 20:56:51:331 kernel.c/(4890:4891): Se interrumpió CPU en socket 11
+[INFO] 20:57:12:225 kernel.c/(5578:5578): Se conecto con la MSP correctamente
+[INFO] 21:09:00:532 kernel.c/(5578:5579): Se interrumpió CPU en socket 12
+[INFO] 21:09:03:186 kernel.c/(5578:5579): Se interrumpió CPU en socket 13
+[INFO] 22:49:08:536 kernel.c/(1924:1924): Se conecto con la MSP correctamente
+[INFO] 13:08:23:961 kernel.c/(4621:4621): Se conecto con la MSP correctamente
+[INFO] 13:13:47:595 kernel.c/(5011:5011): Se conecto con la MSP correctamente
+[INFO] 13:15:33:82 kernel.c/(5011:5012): Se interrumpió CPU en socket 7
+[INFO] 13:17:00:921 kernel.c/(5358:5358): Se conecto con la MSP correctamente
+[INFO] 13:19:37:842 kernel.c/(5358:5359): Se interrumpió CPU en socket 7
+[INFO] 13:21:24:937 kernel.c/(5795:5795): Se conecto con la MSP correctamente
+[INFO] 13:29:07:280 kernel.c/(5795:5796): Se interrumpió CPU en socket 7
+[INFO] 14:13:33:691 kernel.c/(7382:7382): Se conecto con la MSP correctamente
+[INFO] 15:51:32:362 kernel.c/(2005:2005): Se conecto con la MSP correctamente
+[INFO] 15:55:52:994 kernel.c/(2005:2006): Se interrumpió CPU en socket 7
+[INFO] 15:57:11:733 kernel.c/(2415:2415): Se conecto con la MSP correctamente
+[INFO] 15:58:35:337 kernel.c/(2415:2416): Se interrumpió CPU en socket 7
+[ERROR] 15:58:35:338 kernel.c/(2415:2416): Se interrumpio el proceso con el PID: 2 debido a que la CPU  en el socket: 7 esta caida
+[INFO] 16:07:10:870 kernel.c/(2900:2900): Se conecto con la MSP correctamente
+[INFO] 16:08:34:422 kernel.c/(2900:2901): Se interrumpió CPU en socket 8
+[INFO] 16:12:19:70 kernel.c/(3164:3164): Se conecto con la MSP correctamente
+[INFO] 16:13:36:613 kernel.c/(3164:3165): Se interrumpió CPU en socket 8
+[INFO] 16:15:31:313 kernel.c/(3425:3425): Se conecto con la MSP correctamente
+[INFO] 16:17:12:855 kernel.c/(3425:3426): Se interrumpió CPU en socket 8
+[INFO] 16:26:36:158 kernel.c/(3815:3815): Se conecto con la MSP correctamente
+[INFO] 16:29:14:412 kernel.c/(3815:3816): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 16:30:01:965 kernel.c/(3815:3816): Se interrumpió CPU en socket 8
+[INFO] 16:32:56:294 kernel.c/(4169:4169): Se conecto con la MSP correctamente
+[INFO] 16:35:51:373 kernel.c/(4169:4170): Se interrumpió CPU en socket 8
+[INFO] 16:38:35:198 kernel.c/(4553:4553): Se conecto con la MSP correctamente
+[INFO] 16:40:04:803 kernel.c/(4553:4554): Se interrumpió CPU en socket 8
+[INFO] 16:49:34:93 kernel.c/(4870:4870): Se conecto con la MSP correctamente
+[INFO] 16:51:46:951 kernel.c/(4870:4871): Se interrumpió CPU en socket 8
+[ERROR] 16:51:46:951 kernel.c/(4870:4871): Se interrumpio el proceso con el PID: 3 debido a que la CPU  en el socket: 8 esta caida
+[ERROR] 16:53:32:763 kernel.c/(5425:5425): No se pudo conectar a la MSP correctamente
+[INFO] 16:55:35:600 kernel.c/(5877:5877): Se conecto con la MSP correctamente
+[INFO] 17:37:33:670 kernel.c/(7326:7326): Se conecto con la MSP correctamente
+[INFO] 17:42:28:978 kernel.c/(7326:7327): Se interrumpió CPU en socket 7
+[INFO] 17:42:30:251 kernel.c/(7326:7327): Se interrumpió CPU en socket 8
+[INFO] 17:44:48:350 kernel.c/(7956:7956): Se conecto con la MSP correctamente
+[INFO] 17:47:43:439 kernel.c/(7956:7957): Se interrumpió CPU en socket 7
+[INFO] 17:47:45:32 kernel.c/(7956:7957): Se interrumpió CPU en socket 8
+[INFO] 17:49:49:323 kernel.c/(8354:8354): Se conecto con la MSP correctamente
+[INFO] 17:53:33:823 kernel.c/(8354:8355): Se interrumpió CPU en socket 7
+[INFO] 17:53:34:966 kernel.c/(8354:8355): Se interrumpió CPU en socket 8
+[INFO] 18:02:03:997 kernel.c/(9091:9091): Se conecto con la MSP correctamente
+[INFO] 18:04:19:791 kernel.c/(9091:9092): Se interrumpió CPU en socket 7
+[INFO] 18:26:26:702 kernel.c/(9699:9699): Se conecto con la MSP correctamente
+[INFO] 18:28:29:276 kernel.c/(9699:9700): Se interrumpió CPU en socket 7
+[INFO] 18:33:37:296 kernel.c/(10137:10137): Se conecto con la MSP correctamente
+[INFO] 18:35:27:855 kernel.c/(10137:10138): Se interrumpió CPU en socket 7
+[INFO] 18:42:06:289 kernel.c/(10889:10889): Se conecto con la MSP correctamente
+[INFO] 18:43:38:615 kernel.c/(10889:10890): Se interrumpió CPU en socket 7
+[INFO] 19:28:18:609 kernel.c/(2182:2182): Se conecto con la MSP correctamente
+[INFO] 19:30:21:329 kernel.c/(2182:2183): Se interrumpió CPU en socket 7
+[ERROR] 19:30:21:329 kernel.c/(2182:2183): Se interrumpio el proceso con el PID: 3 debido a que la CPU  en el socket: 7 esta caida
+[INFO] 19:37:59:108 kernel.c/(2942:2942): Se conecto con la MSP correctamente
+[INFO] 19:42:26:660 kernel.c/(3271:3271): Se conecto con la MSP correctamente
+[INFO] 19:44:29:288 kernel.c/(3271:3272): Se interrumpió CPU en socket 7
+[ERROR] 19:44:29:288 kernel.c/(3271:3272): Se interrumpio el proceso con el PID: 3 debido a que la CPU  en el socket: 7 esta caida
+[INFO] 19:49:04:112 kernel.c/(3631:3631): Se conecto con la MSP correctamente
+[INFO] 19:51:15:755 kernel.c/(3631:3632): Se interrumpió CPU en socket 7
+[ERROR] 19:51:15:755 kernel.c/(3631:3632): Se interrumpio el proceso con el PID: 3 debido a que la CPU  en el socket: 7 esta caida
+[INFO] 19:56:53:464 kernel.c/(4059:4059): Se conecto con la MSP correctamente
+[INFO] 19:58:50:892 kernel.c/(4059:4060): Se interrumpió CPU en socket 7
+[ERROR] 19:58:50:893 kernel.c/(4059:4060): Se interrumpio el proceso con el PID: 3 debido a que la CPU  en el socket: 7 esta caida
+[INFO] 20:00:55:627 kernel.c/(4416:4416): Se conecto con la MSP correctamente
+[INFO] 20:03:10:707 kernel.c/(4416:4417): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 20:06:18:673 kernel.c/(4416:4417): Se interrumpió CPU en socket 7
+[INFO] 20:11:25:395 kernel.c/(4921:4921): Se conecto con la MSP correctamente
+[INFO] 20:14:47:933 kernel.c/(4921:4922): Se interrumpió CPU en socket 8
+[ERROR] 20:14:47:933 kernel.c/(4921:4922): Se interrumpio el proceso con el PID: 3 debido a que la CPU  en el socket: 8 esta caida
+[INFO] 20:18:15:513 kernel.c/(5335:5335): Se conecto con la MSP correctamente
+[INFO] 20:21:30:636 kernel.c/(5335:5336): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 20:23:32:225 kernel.c/(5335:5336): Se interrumpió CPU en socket 7
+[INFO] 20:24:49:309 kernel.c/(5693:5693): Se conecto con la MSP correctamente
+[INFO] 20:26:49:326 kernel.c/(5693:5694): Se interrumpió CPU en socket 7
+[ERROR] 20:26:49:326 kernel.c/(5693:5694): Se interrumpio el proceso con el PID: 3 debido a que la CPU  en el socket: 7 esta caida
+[INFO] 20:31:22:594 kernel.c/(6164:6164): Se conecto con la MSP correctamente
+[INFO] 20:33:41:501 kernel.c/(6164:6165): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 20:35:03:367 kernel.c/(6164:6165): Se interrumpió CPU en socket 7
+[INFO] 20:42:15:310 kernel.c/(6675:6675): Se conecto con la MSP correctamente
+[INFO] 20:44:17:192 kernel.c/(6675:6676): Se interrumpió CPU en socket 8
+[ERROR] 20:45:18:40 kernel.c/(6966:6966): No se pudo conectar a la MSP correctamente
+[INFO] 20:46:03:769 kernel.c/(7229:7229): Se conecto con la MSP correctamente
+[INFO] 20:48:58:676 kernel.c/(7229:7230): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 20:50:53:618 kernel.c/(7229:7230): Se interrumpió CPU en socket 7
+[INFO] 21:10:56:167 kernel.c/(7778:7778): Se conecto con la MSP correctamente
+[INFO] 21:13:17:467 kernel.c/(7778:7779): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 21:14:02:9 kernel.c/(7778:7779): Se interrumpió CPU en socket 7
+[INFO] 21:16:17:432 kernel.c/(8157:8157): Se conecto con la MSP correctamente
+[INFO] 21:18:42:32 kernel.c/(8157:8158): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 21:20:35:438 kernel.c/(8157:8158): Se interrumpió CPU en socket 7
+[INFO] 21:46:10:797 kernel.c/(8845:8845): Se conecto con la MSP correctamente
+[INFO] 21:48:31:983 kernel.c/(8845:8846): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 22:32:27:310 kernel.c/(1986:1986): Se conecto con la MSP correctamente
+[ERROR] 22:43:10:375 kernel.c/(3118:3118): No se pudo conectar a la MSP correctamente
+[ERROR] 22:43:29:384 kernel.c/(3247:3247): No se pudo conectar a la MSP correctamente
+[INFO] 22:44:00:148 kernel.c/(3409:3409): Se conecto con la MSP correctamente
+[INFO] 23:02:36:840 kernel.c/(3409:3410): Se interrumpió CPU en socket 34
+[ERROR] 23:02:36:840 kernel.c/(3409:3410): Se interrumpio el proceso con el PID: 21 debido a que la CPU  en el socket: 34 esta caida
+[INFO] 23:06:47:782 kernel.c/(4706:4706): Se conecto con la MSP correctamente
+[INFO] 23:21:37:513 kernel.c/(4706:4707): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 23:39:19:83 kernel.c/(4706:4707): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 23:51:30:275 kernel.c/(4706:4707): Se interrumpió CPU en socket 30
+[INFO] 23:51:31:682 kernel.c/(4706:4707): Se interrumpió CPU en socket 29
+[INFO] 00:00:51:804 kernel.c/(4706:4707): Se interrumpió CPU en socket 28
+[ERROR] 00:00:51:804 kernel.c/(4706:4707): Se interrumpio el proceso con el PID: 38 debido a que la CPU  en el socket: 28 esta caida
+[INFO] 00:04:09:687 kernel.c/(5300:5300): Se conecto con la MSP correctamente
+[INFO] 00:05:53:337 kernel.c/(5392:5392): Se conecto con la MSP correctamente
+[INFO] 00:08:07:802 kernel.c/(5392:5393): Se interrumpió CPU en socket 8
+[ERROR] 00:08:07:802 kernel.c/(5392:5393): Se interrumpio el proceso con el PID: 2 debido a que la CPU  en el socket: 8 esta caida
+[ERROR] 00:13:38:795 kernel.c/(5614:5614): No se pudo conectar a la MSP correctamente
+[INFO] 00:13:59:343 kernel.c/(5746:5746): Se conecto con la MSP correctamente
+[INFO] 00:16:28:66 kernel.c/(5746:5747): Se interrumpió CPU en socket 8
+[ERROR] 00:16:28:66 kernel.c/(5746:5747): Se interrumpio el proceso con el PID: 1 debido a que la CPU  en el socket: 8 esta caida
+[ERROR] 00:21:07:628 kernel.c/(6464:6464): No se pudo conectar a la MSP correctamente
+[INFO] 00:21:29:61 kernel.c/(6594:6594): Se conecto con la MSP correctamente
+[INFO] 00:22:56:363 kernel.c/(6594:6595): Se interrumpió CPU en socket 10
+[ERROR] 00:22:56:364 kernel.c/(6594:6595): Se interrumpio el proceso con el PID: 1 debido a que la CPU  en el socket: 10 esta caida
+[INFO] 11:30:22:66 kernel.c/(7412:7412): Se conecto con la MSP correctamente
+[INFO] 11:36:47:953 kernel.c/(7412:7413): Se interrumpió CPU en socket 7
+[INFO] 11:37:23:818 kernel.c/(7797:7797): Se conecto con la MSP correctamente
+[INFO] 11:44:11:18 kernel.c/(7797:7798): Se interrumpió CPU en socket 9
+[INFO] 11:45:19:704 kernel.c/(8255:8255): Se conecto con la MSP correctamente
+[INFO] 12:08:58:729 kernel.c/(8780:8780): Se conecto con la MSP correctamente
+[INFO] 12:19:00:9 kernel.c/(9058:9058): Se conecto con la MSP correctamente
+[INFO] 12:24:25:174 kernel.c/(9058:9059): Se interrumpió CPU en socket 11
+[INFO] 12:24:28:149 kernel.c/(9058:9059): Se interrumpió CPU en socket 10
+[INFO] 17:12:38:266 kernel.c/(11062:11062): Se conecto con la MSP correctamente
+[INFO] 17:14:18:844 kernel.c/(11062:11063): Se interrumpió CPU en socket 8
+[INFO] 17:14:20:140 kernel.c/(11062:11063): Se interrumpió CPU en socket 9
+[ERROR] 17:15:39:140 kernel.c/(11544:11544): No se pudo conectar a la MSP correctamente
+[ERROR] 17:15:43:6 kernel.c/(11545:11545): No se pudo conectar a la MSP correctamente
+[INFO] 17:16:00:155 kernel.c/(11672:11672): Se conecto con la MSP correctamente
+[INFO] 17:34:05:245 kernel.c/(11672:11673): Se interrumpió CPU en socket 9
+[INFO] 18:03:58:512 kernel.c/(11672:11673): Se interrumpió CPU en socket 8
+[INFO] 18:04:00:625 kernel.c/(11672:11673): Se interrumpió CPU en socket 9
+[INFO] 18:07:58:89 kernel.c/(12237:12237): Se conecto con la MSP correctamente
+[INFO] 18:22:56:343 kernel.c/(12237:12238): Se interrumpió CPU en socket 9
+[INFO] 18:22:57:734 kernel.c/(12237:12238): Se interrumpió CPU en socket 8
+[INFO] 18:27:33:817 kernel.c/(12495:12495): Se conecto con la MSP correctamente
+[INFO] 18:39:29:717 kernel.c/(13067:13067): Se conecto con la MSP correctamente
+[INFO] 18:58:58:368 kernel.c/(13407:13407): Se conecto con la MSP correctamente
+[INFO] 19:03:54:766 kernel.c/(13407:13408): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 19:06:16:486 kernel.c/(13407:13408): Se interrumpió CPU en socket 8
+[INFO] 19:06:18:511 kernel.c/(13407:13408): Se interrumpió CPU en socket 9
+[INFO] 19:07:23:189 kernel.c/(13711:13711): Se conecto con la MSP correctamente
+[INFO] 19:13:20:701 kernel.c/(13711:13712): El hilo hijo ya finalizó, no es necesario bloquear al padre
+[INFO] 19:14:22:205 kernel.c/(13711:13712): Se interrumpió CPU en socket 9
+[INFO] 19:14:24:989 kernel.c/(13711:13712): Se interrumpió CPU en socket 8
+[INFO] 11:20:44:447 kernel.c/(1870:1870): Se conecto con la MSP correctamente
+[INFO] 11:30:51:932 kernel.c/(2430:2430): Se conecto con la MSP correctamente
+[INFO] 11:36:30:492 kernel.c/(2430:2431): Se interrumpió CPU en socket 8
+[INFO] 11:36:31:518 kernel.c/(2430:2431): Se interrumpió CPU en socket 9
+[INFO] 12:44:27:941 kernel.c/(3348:3348): Se conecto con la MSP correctamente
+[INFO] 08:49:38:79 kernel.c/(3402:3402): Se conecto con la MSP correctamente
+[INFO] 09:00:58:89 kernel.c/(4107:4107): Se conecto con la MSP correctamente
+[INFO] 09:05:27:388 kernel.c/(4664:4664): Se conecto con la MSP correctamente
+[INFO] 09:06:06:994 kernel.c/(4886:4886): Se conecto con la MSP correctamente
+[INFO] 09:09:12:615 kernel.c/(4886:4887): Se interrumpió CPU en socket 8
+[INFO] 09:09:14:887 kernel.c/(4886:4887): Se interrumpió CPU en socket 11
+[INFO] 11:43:01:298 kernel.c/(2139:2139): Se conecto con la MSP correctamente
+[INFO] 11:46:44:118 kernel.c/(2630:2630): Se conecto con la MSP correctamente
+[INFO] 11:47:21:243 kernel.c/(2919:2919): Se conecto con la MSP correctamente
+[ERROR] 11:51:10:441 kernel.c/(3235:3235): No se pudo conectar a la MSP correctamente
+[INFO] 11:51:36:996 kernel.c/(3306:3306): Se conecto con la MSP correctamente
+[ERROR] 11:54:34:593 kernel.c/(3773:3773): No se pudo conectar a la MSP correctamente
+[INFO] 11:55:14:910 kernel.c/(3942:3942): Se conecto con la MSP correctamente

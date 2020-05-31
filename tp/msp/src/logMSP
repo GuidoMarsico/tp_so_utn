@@ -1,0 +1,956 @@
+[INFO] 21:26:14:620 msp.c/(2270:2270): CantidadMemoria:4096	CantidadSwapping:4096
+
+[INFO] 21:41:38:47 msp.c/(2494:2494): CantidadMemoria:4096	CantidadSwapping:4096
+
+[INFO] 21:41:42:72 msp.c/(2494:2494): Se conectó el Kernel
+[INFO] 21:41:42:130 msp.c/(2494:2494): El Kernel solicito RESERVAR
+[INFO] 21:41:42:130 msp.c/(2494:2494): Parametros:
+[INFO] 21:41:42:130 msp.c/(2494:2494): PID: 0
+[INFO] 21:41:42:130 msp.c/(2494:2494): Tamaño a reservar: 332
+[INFO] 21:41:42:130 msp.c/(2494:2494): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 21:41:42:131 msp.c/(2494:2494): El Kernel solicito RESERVAR
+[INFO] 21:41:42:170 msp.c/(2494:2494): Parametros:
+[INFO] 21:41:42:170 msp.c/(2494:2494): PID: 0
+[INFO] 21:41:42:170 msp.c/(2494:2494): Tamaño a reservar: 300
+[INFO] 21:41:42:170 msp.c/(2494:2494): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 21:41:42:171 msp.c/(2494:2494): El Kernel solicito ESCRIBIR
+[INFO] 21:41:42:211 msp.c/(2494:2494): Parametros:
+[INFO] 21:41:42:211 msp.c/(2494:2494): PID: 0
+[INFO] 21:41:42:211 msp.c/(2494:2494): Dir lógica: 0
+[INFO] 21:41:42:211 msp.c/(2494:2494): Tam a escribir: 332
+[INFO] 21:41:42:212 msp.c/(2494:2494): Bytes a ESCRIBIR:
+[INFO] 21:41:42:212 msp.c/(2494:2494): Se selecciono el marco: 0 para el PID 0 Segmento 0 Pagina 0
+[INFO] 21:41:42:212 msp.c/(2494:2494): Se selecciono el marco: 1 para el PID 0 Segmento 0 Pagina 1
+[INFO] 21:53:52:999 msp.c/(3241:3241): CantidadMemoria:4096	CantidadSwapping:4096
+
+[INFO] 21:54:15:974 msp.c/(3241:3241): Se conectó el Kernel
+[INFO] 21:54:15:974 msp.c/(3241:3241): El Kernel solicito RESERVAR
+[INFO] 21:54:15:974 msp.c/(3241:3241): Parametros:
+[INFO] 21:54:15:974 msp.c/(3241:3241): PID: 0
+[INFO] 21:54:15:974 msp.c/(3241:3241): Tamaño a reservar: 332
+[INFO] 21:54:15:974 msp.c/(3241:3241): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 21:54:15:974 msp.c/(3241:3241): El Kernel solicito RESERVAR
+[INFO] 21:54:16:14 msp.c/(3241:3241): Parametros:
+[INFO] 21:54:16:14 msp.c/(3241:3241): PID: 0
+[INFO] 21:54:16:14 msp.c/(3241:3241): Tamaño a reservar: 300
+[INFO] 21:54:16:14 msp.c/(3241:3241): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 21:54:16:15 msp.c/(3241:3241): El Kernel solicito ESCRIBIR
+[INFO] 21:54:16:55 msp.c/(3241:3241): Parametros:
+[INFO] 21:54:16:55 msp.c/(3241:3241): PID: 0
+[INFO] 21:54:16:55 msp.c/(3241:3241): Dir lógica: 0
+[INFO] 21:54:16:55 msp.c/(3241:3241): Tam a escribir: 332
+[INFO] 21:54:16:55 msp.c/(3241:3241): Bytes a ESCRIBIR:
+[INFO] 21:54:16:55 msp.c/(3241:3241): Se selecciono el marco: 0 para el PID 0 Segmento 0 Pagina 0
+[INFO] 21:54:16:55 msp.c/(3241:3241): Se selecciono el marco: 1 para el PID 0 Segmento 0 Pagina 1
+[INFO] 21:54:34:276 msp.c/(3241:3241): Se conectó un CPU
+[INFO] 21:54:55:308 msp.c/(3241:3241): El Kernel solicito RESERVAR
+[INFO] 21:54:55:346 msp.c/(3241:3241): Parametros:
+[INFO] 21:54:55:346 msp.c/(3241:3241): PID: 1
+[INFO] 21:54:55:346 msp.c/(3241:3241): Tamaño a reservar: 134514753
+[INFO] 21:54:55:346 msp.c/(3241:3241): La memoria principal esta llena al igual que el espacio de intercambio
+[ERROR] 21:54:55:346 msp.c/(3241:3241): No se pudo reservar memoria
+[INFO] 21:58:02:625 msp.c/(3241:3241): El Kernel solicito RESERVAR
+[INFO] 21:58:02:662 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:02:662 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:02:662 msp.c/(3241:3241): Tamaño a reservar: 36
+[INFO] 21:58:02:662 msp.c/(3241:3241): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 21:58:02:662 msp.c/(3241:3241): El Kernel solicito RESERVAR
+[INFO] 21:58:02:702 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:02:702 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:02:702 msp.c/(3241:3241): Tamaño a reservar: 300
+[INFO] 21:58:02:702 msp.c/(3241:3241): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 21:58:02:703 msp.c/(3241:3241): El Kernel solicito ESCRIBIR
+[INFO] 21:58:02:742 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:02:742 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:02:742 msp.c/(3241:3241): Dir lógica: 0
+[INFO] 21:58:02:742 msp.c/(3241:3241): Tam a escribir: 36
+[INFO] 21:58:02:742 msp.c/(3241:3241): Bytes a ESCRIBIR:
+[INFO] 21:58:02:743 msp.c/(3241:3241): Se selecciono el marco: 2 para el PID 1 Segmento 0 Pagina 0
+[INFO] 21:58:10:111 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 21:58:10:111 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:10:111 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:10:111 msp.c/(3241:3241): Dir lógica: 0
+[INFO] 21:58:10:111 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 21:58:10:112 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 21:58:10:152 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:10:153 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:10:153 msp.c/(3241:3241): Dir lógica: 4
+[INFO] 21:58:10:153 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 21:58:10:154 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 21:58:10:190 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:10:190 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:10:190 msp.c/(3241:3241): Dir lógica: 5
+[INFO] 21:58:10:190 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 21:58:11:191 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 21:58:11:230 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:11:230 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:11:230 msp.c/(3241:3241): Dir lógica: 9
+[INFO] 21:58:11:230 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 21:58:11:231 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 21:58:11:270 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:11:270 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:11:271 msp.c/(3241:3241): Dir lógica: 13
+[INFO] 21:58:11:271 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 21:58:12:271 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 21:58:12:310 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:12:311 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:12:311 msp.c/(3241:3241): Dir lógica: 23
+[INFO] 21:58:12:311 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 21:58:12:312 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 21:58:12:350 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:12:350 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:12:351 msp.c/(3241:3241): Dir lógica: 27
+[INFO] 21:58:12:351 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 21:58:12:351 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 21:58:12:391 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:12:391 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:12:391 msp.c/(3241:3241): Dir lógica: 28
+[INFO] 21:58:12:391 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 21:58:13:392 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 21:58:13:432 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:13:432 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:13:433 msp.c/(3241:3241): Dir lógica: 32
+[INFO] 21:58:13:433 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 21:58:13:434 msp.c/(3241:3241): El Kernel solicito DESTRUIR
+[INFO] 21:58:13:470 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:13:470 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:13:470 msp.c/(3241:3241): BASE: 1048576
+[INFO] 21:58:13:470 msp.c/(3241:3241): El pedido de destruccion de segmento se pudo satisfacer correctamente
+[INFO] 21:58:13:471 msp.c/(3241:3241): El Kernel solicito DESTRUIR
+[INFO] 21:58:13:512 msp.c/(3241:3241): Parametros:
+[INFO] 21:58:13:512 msp.c/(3241:3241): PID: 1
+[INFO] 21:58:13:512 msp.c/(3241:3241): BASE: 0
+[INFO] 21:58:13:512 msp.c/(3241:3241): El pedido de destruccion de segmento se pudo satisfacer correctamente
+[INFO] 22:00:53:928 msp.c/(3241:3241): El Kernel solicito RESERVAR
+[INFO] 22:00:53:966 msp.c/(3241:3241): Parametros:
+[INFO] 22:00:53:966 msp.c/(3241:3241): PID: 2
+[INFO] 22:00:53:966 msp.c/(3241:3241): Tamaño a reservar: 210
+[INFO] 22:00:53:966 msp.c/(3241:3241): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 22:00:53:967 msp.c/(3241:3241): El Kernel solicito RESERVAR
+[INFO] 22:00:54:6 msp.c/(3241:3241): Parametros:
+[INFO] 22:00:54:6 msp.c/(3241:3241): PID: 2
+[INFO] 22:00:54:6 msp.c/(3241:3241): Tamaño a reservar: 300
+[INFO] 22:00:54:7 msp.c/(3241:3241): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 22:00:54:7 msp.c/(3241:3241): El Kernel solicito ESCRIBIR
+[INFO] 22:00:54:48 msp.c/(3241:3241): Parametros:
+[INFO] 22:00:54:48 msp.c/(3241:3241): PID: 2
+[INFO] 22:00:54:48 msp.c/(3241:3241): Dir lógica: 0
+[INFO] 22:00:54:48 msp.c/(3241:3241): Tam a escribir: 210
+[INFO] 22:00:54:48 msp.c/(3241:3241): Bytes a ESCRIBIR:
+[INFO] 22:00:54:49 msp.c/(3241:3241): Se selecciono el marco: 3 para el PID 2 Segmento 0 Pagina 0
+[INFO] 22:01:01:137 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:01:175 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:01:175 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:01:175 msp.c/(3241:3241): Dir lógica: 0
+[INFO] 22:01:01:175 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:01:176 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:01:217 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:01:217 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:01:217 msp.c/(3241:3241): Dir lógica: 4
+[INFO] 22:01:01:217 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:01:217 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:01:254 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:01:254 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:01:254 msp.c/(3241:3241): Dir lógica: 5
+[INFO] 22:01:01:254 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:02:255 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:02:294 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:02:294 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:02:294 msp.c/(3241:3241): Dir lógica: 9
+[INFO] 22:01:02:294 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:02:295 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:02:335 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:02:336 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:02:336 msp.c/(3241:3241): Dir lógica: 13
+[INFO] 22:01:02:336 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:02:336 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:02:374 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:02:374 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:02:374 msp.c/(3241:3241): Dir lógica: 14
+[INFO] 22:01:02:375 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:03:376 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:03:414 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:03:414 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:03:415 msp.c/(3241:3241): Dir lógica: 18
+[INFO] 22:01:03:415 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:03:415 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:03:454 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:03:454 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:03:454 msp.c/(3241:3241): Dir lógica: 22
+[INFO] 22:01:03:455 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:03:455 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:03:494 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:03:494 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:03:494 msp.c/(3241:3241): Dir lógica: 26
+[INFO] 22:01:03:494 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:03:495 msp.c/(3241:3241): Una CPU solicito ESCRIBIR
+[INFO] 22:01:03:534 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:03:534 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:03:534 msp.c/(3241:3241): Dir lógica: 1048576
+[INFO] 22:01:03:534 msp.c/(3241:3241): Tam a escribir: 4
+[INFO] 22:01:03:534 msp.c/(3241:3241): Bytes a ESCRIBIR:
+[INFO] 22:01:03:534 msp.c/(3241:3241): Se selecciono el marco: 4 para el PID 2 Segmento 1 Pagina 0
+[INFO] 22:01:04:535 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:04:575 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:04:575 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:04:575 msp.c/(3241:3241): Dir lógica: 27
+[INFO] 22:01:04:575 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:04:576 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:04:616 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:04:616 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:04:616 msp.c/(3241:3241): Dir lógica: 31
+[INFO] 22:01:04:616 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:09:138 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:09:174 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:09:174 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:09:174 msp.c/(3241:3241): Dir lógica: 132
+[INFO] 22:01:09:174 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:10:175 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:10:214 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:10:215 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:10:215 msp.c/(3241:3241): Dir lógica: 136
+[INFO] 22:01:10:215 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:11:217 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:11:254 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:11:254 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:11:254 msp.c/(3241:3241): Dir lógica: 140
+[INFO] 22:01:11:254 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:12:256 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:12:295 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:12:296 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:12:296 msp.c/(3241:3241): Dir lógica: 144
+[INFO] 22:01:12:296 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:12:296 msp.c/(3241:3241): El Kernel solicito RESERVAR
+[INFO] 22:01:12:334 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:12:334 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:12:334 msp.c/(3241:3241): Tamaño a reservar: 300
+[INFO] 22:01:12:334 msp.c/(3241:3241): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 22:01:12:335 msp.c/(3241:3241): El Kernel solicito LEER
+[INFO] 22:01:12:375 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:12:375 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:12:375 msp.c/(3241:3241): Dir lógica: 1048576
+[INFO] 22:01:12:375 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:12:375 msp.c/(3241:3241): El Kernel solicito ESCRIBIR
+[INFO] 22:01:12:414 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:12:414 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:12:414 msp.c/(3241:3241): Dir lógica: 2097152
+[INFO] 22:01:12:414 msp.c/(3241:3241): Tam a escribir: 4
+[INFO] 22:01:12:414 msp.c/(3241:3241): Bytes a ESCRIBIR:
+[INFO] 22:01:12:414 msp.c/(3241:3241): Se selecciono el marco: 5 para el PID 2 Segmento 2 Pagina 0
+[INFO] 22:01:13:415 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:13:455 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:13:455 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:13:455 msp.c/(3241:3241): Dir lógica: 148
+[INFO] 22:01:13:455 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:14:456 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:14:496 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:14:496 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:14:496 msp.c/(3241:3241): Dir lógica: 152
+[INFO] 22:01:14:497 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:15:497 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:15:535 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:15:535 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:15:535 msp.c/(3241:3241): Dir lógica: 156
+[INFO] 22:01:15:535 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:16:537 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:16:574 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:16:574 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:16:574 msp.c/(3241:3241): Dir lógica: 160
+[INFO] 22:01:16:574 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:19:577 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:19:614 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:19:614 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:19:614 msp.c/(3241:3241): Dir lógica: 140
+[INFO] 22:01:19:614 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:19:615 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:19:654 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:19:654 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:19:654 msp.c/(3241:3241): Dir lógica: 144
+[INFO] 22:01:19:654 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:19:655 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:19:696 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:19:696 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:19:696 msp.c/(3241:3241): Dir lógica: 148
+[INFO] 22:01:19:696 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:19:696 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:19:734 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:19:734 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:19:734 msp.c/(3241:3241): Dir lógica: 2097152
+[INFO] 22:01:19:734 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:20:735 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:20:774 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:20:774 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:20:775 msp.c/(3241:3241): Dir lógica: 149
+[INFO] 22:01:20:775 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:20:775 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:20:814 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:20:814 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:20:814 msp.c/(3241:3241): Dir lógica: 153
+[INFO] 22:01:20:814 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:24:580 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:24:619 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:24:619 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:24:619 msp.c/(3241:3241): Dir lógica: 76
+[INFO] 22:01:24:619 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:25:620 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:25:658 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:25:658 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:25:658 msp.c/(3241:3241): Dir lógica: 80
+[INFO] 22:01:25:659 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:26:660 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:26:698 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:26:699 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:26:699 msp.c/(3241:3241): Dir lógica: 84
+[INFO] 22:01:26:699 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:27:700 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:27:739 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:27:739 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:27:739 msp.c/(3241:3241): Dir lógica: 88
+[INFO] 22:01:27:739 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:28:740 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:28:779 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:28:779 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:28:779 msp.c/(3241:3241): Dir lógica: 92
+[INFO] 22:01:28:779 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:29:780 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:29:818 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:29:819 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:29:819 msp.c/(3241:3241): Dir lógica: 96
+[INFO] 22:01:29:819 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:30:819 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:30:859 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:30:860 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:30:860 msp.c/(3241:3241): Dir lógica: 100
+[INFO] 22:01:30:860 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:31:861 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:31:899 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:31:899 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:31:899 msp.c/(3241:3241): Dir lógica: 104
+[INFO] 22:01:31:900 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:34:902 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:34:938 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:34:938 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:34:938 msp.c/(3241:3241): Dir lógica: 35
+[INFO] 22:01:34:938 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:34:938 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:34:979 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:34:980 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:34:980 msp.c/(3241:3241): Dir lógica: 39
+[INFO] 22:01:34:980 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:34:980 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:35:18 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:35:18 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:35:18 msp.c/(3241:3241): Dir lógica: 40
+[INFO] 22:01:35:18 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:36:20 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:36:59 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:36:59 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:36:59 msp.c/(3241:3241): Dir lógica: 41
+[INFO] 22:01:36:59 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:36:60 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:36:99 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:36:100 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:36:100 msp.c/(3241:3241): Dir lógica: 45
+[INFO] 22:01:36:100 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:36:100 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:36:138 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:36:139 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:36:139 msp.c/(3241:3241): Dir lógica: 49
+[INFO] 22:01:36:139 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:36:139 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:36:178 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:36:179 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:36:179 msp.c/(3241:3241): Dir lógica: 1048576
+[INFO] 22:01:36:179 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:37:180 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:37:218 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:37:219 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:37:219 msp.c/(3241:3241): Dir lógica: 50
+[INFO] 22:01:37:219 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:37:219 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:37:258 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:37:259 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:37:259 msp.c/(3241:3241): Dir lógica: 54
+[INFO] 22:01:37:259 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:37:259 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:37:298 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:37:299 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:37:299 msp.c/(3241:3241): Dir lógica: 55
+[INFO] 22:01:37:299 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:38:300 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:38:340 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:38:340 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:38:340 msp.c/(3241:3241): Dir lógica: 59
+[INFO] 22:01:38:340 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:38:341 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:38:379 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:38:379 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:38:379 msp.c/(3241:3241): Dir lógica: 63
+[INFO] 22:01:38:379 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:38:380 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:38:418 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:38:418 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:38:418 msp.c/(3241:3241): Dir lógica: 67
+[INFO] 22:01:38:418 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:38:419 msp.c/(3241:3241): Una CPU solicito ESCRIBIR
+[INFO] 22:01:38:459 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:38:459 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:38:459 msp.c/(3241:3241): Dir lógica: 1048576
+[INFO] 22:01:38:459 msp.c/(3241:3241): Tam a escribir: 4
+[INFO] 22:01:38:459 msp.c/(3241:3241): Bytes a ESCRIBIR:
+[INFO] 22:01:41:500 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:41:540 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:41:540 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:41:540 msp.c/(3241:3241): Dir lógica: 157
+[INFO] 22:01:41:540 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:41:540 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:41:578 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:41:579 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:41:579 msp.c/(3241:3241): Dir lógica: 161
+[INFO] 22:01:41:579 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:41:579 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:41:618 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:41:618 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:41:618 msp.c/(3241:3241): Dir lógica: 162
+[INFO] 22:01:41:618 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:42:619 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:42:658 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:42:659 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:42:659 msp.c/(3241:3241): Dir lógica: 166
+[INFO] 22:01:42:659 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:42:659 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:42:698 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:42:699 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:42:699 msp.c/(3241:3241): Dir lógica: 170
+[INFO] 22:01:42:699 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:42:699 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:42:738 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:42:738 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:42:738 msp.c/(3241:3241): Dir lógica: 171
+[INFO] 22:01:42:738 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:43:740 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:43:779 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:43:780 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:43:780 msp.c/(3241:3241): Dir lógica: 175
+[INFO] 22:01:43:780 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:43:780 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:43:818 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:43:818 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:43:818 msp.c/(3241:3241): Dir lógica: 179
+[INFO] 22:01:43:818 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:43:819 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:43:859 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:43:859 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:43:859 msp.c/(3241:3241): Dir lógica: 180
+[INFO] 22:01:43:859 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:44:860 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:44:898 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:44:898 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:44:898 msp.c/(3241:3241): Dir lógica: 181
+[INFO] 22:01:44:898 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:44:899 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:44:938 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:44:938 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:44:938 msp.c/(3241:3241): Dir lógica: 185
+[INFO] 22:01:44:938 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:01:44:939 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:44:979 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:44:980 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:44:980 msp.c/(3241:3241): Dir lógica: 186
+[INFO] 22:01:44:980 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:48:20 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:48:58 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:48:58 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:48:58 msp.c/(3241:3241): Dir lógica: 68
+[INFO] 22:01:48:58 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:48:59 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:48:99 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:48:99 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:48:99 msp.c/(3241:3241): Dir lógica: 72
+[INFO] 22:01:48:99 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:53:22 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:53:59 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:53:59 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:53:59 msp.c/(3241:3241): Dir lógica: 132
+[INFO] 22:01:53:59 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:54:60 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:54:98 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:54:98 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:54:98 msp.c/(3241:3241): Dir lógica: 136
+[INFO] 22:01:54:98 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:55:100 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:55:138 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:55:139 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:55:139 msp.c/(3241:3241): Dir lógica: 140
+[INFO] 22:01:55:139 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:56:140 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:56:178 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:56:178 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:56:178 msp.c/(3241:3241): Dir lógica: 144
+[INFO] 22:01:56:178 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:56:179 msp.c/(3241:3241): El Kernel solicito RESERVAR
+[INFO] 22:01:56:218 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:56:218 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:56:218 msp.c/(3241:3241): Tamaño a reservar: 300
+[INFO] 22:01:56:218 msp.c/(3241:3241): El pedido de creacion de segmento se pudo satisfacer correctamente
+[INFO] 22:01:56:219 msp.c/(3241:3241): El Kernel solicito LEER
+[INFO] 22:01:56:258 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:56:258 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:56:258 msp.c/(3241:3241): Dir lógica: 1048576
+[INFO] 22:01:56:258 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:56:259 msp.c/(3241:3241): El Kernel solicito ESCRIBIR
+[INFO] 22:01:56:299 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:56:300 msp.c/(3241:3241): PID: 2
+[INFO] 22:01:56:300 msp.c/(3241:3241): Dir lógica: 3145728
+[INFO] 22:01:56:300 msp.c/(3241:3241): Tam a escribir: 4
+[INFO] 22:01:56:300 msp.c/(3241:3241): Bytes a ESCRIBIR:
+[INFO] 22:01:56:300 msp.c/(3241:3241): Se selecciono el marco: 6 para el PID 2 Segmento 3 Pagina 0
+[INFO] 22:01:57:301 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:57:338 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:57:339 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:57:339 msp.c/(3241:3241): Dir lógica: 148
+[INFO] 22:01:57:339 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:58:340 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:58:378 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:58:379 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:58:379 msp.c/(3241:3241): Dir lógica: 152
+[INFO] 22:01:58:379 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:01:59:379 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:01:59:419 msp.c/(3241:3241): Parametros:
+[INFO] 22:01:59:419 msp.c/(3241:3241): PID: 0
+[INFO] 22:01:59:419 msp.c/(3241:3241): Dir lógica: 156
+[INFO] 22:01:59:419 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:00:420 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:00:459 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:00:459 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:00:459 msp.c/(3241:3241): Dir lógica: 160
+[INFO] 22:02:00:459 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:03:463 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:03:502 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:03:503 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:03:503 msp.c/(3241:3241): Dir lógica: 190
+[INFO] 22:02:03:503 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:03:503 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:03:542 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:03:542 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:03:542 msp.c/(3241:3241): Dir lógica: 194
+[INFO] 22:02:03:542 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:03:543 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:03:583 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:03:584 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:03:584 msp.c/(3241:3241): Dir lógica: 195
+[INFO] 22:02:03:584 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:04:584 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:04:622 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:04:622 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:04:622 msp.c/(3241:3241): Dir lógica: 196
+[INFO] 22:02:04:622 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:04:622 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:04:662 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:04:662 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:04:662 msp.c/(3241:3241): Dir lógica: 200
+[INFO] 22:02:04:662 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:04:662 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:04:705 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:04:705 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:04:705 msp.c/(3241:3241): Dir lógica: 204
+[INFO] 22:02:04:705 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:04:705 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:04:743 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:04:743 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:04:743 msp.c/(3241:3241): Dir lógica: 205
+[INFO] 22:02:04:743 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:04:744 msp.c/(3241:3241): Una CPU solicito ESCRIBIR
+[INFO] 22:02:04:782 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:04:782 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:04:782 msp.c/(3241:3241): Dir lógica: 124
+[INFO] 22:02:04:782 msp.c/(3241:3241): Tam a escribir: 4
+[INFO] 22:02:04:782 msp.c/(3241:3241): Bytes a ESCRIBIR:
+[INFO] 22:02:05:784 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:05:823 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:05:823 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:05:823 msp.c/(3241:3241): Dir lógica: 206
+[INFO] 22:02:05:823 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:05:824 msp.c/(3241:3241): El Kernel solicito DESTRUIR
+[INFO] 22:02:05:863 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:05:863 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:05:863 msp.c/(3241:3241): BASE: 2097152
+[INFO] 22:02:05:863 msp.c/(3241:3241): El pedido de destruccion de segmento se pudo satisfacer correctamente
+[INFO] 22:02:12:865 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:12:902 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:12:903 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:12:903 msp.c/(3241:3241): Dir lógica: 140
+[INFO] 22:02:12:903 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:12:903 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:12:943 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:12:943 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:12:943 msp.c/(3241:3241): Dir lógica: 144
+[INFO] 22:02:12:943 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:12:944 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:12:982 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:12:982 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:12:982 msp.c/(3241:3241): Dir lógica: 148
+[INFO] 22:02:12:982 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:12:982 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:13:22 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:13:22 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:13:22 msp.c/(3241:3241): Dir lógica: 3145728
+[INFO] 22:02:13:22 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:14:23 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:14:62 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:14:62 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:14:62 msp.c/(3241:3241): Dir lógica: 149
+[INFO] 22:02:14:62 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:14:62 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:14:102 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:14:102 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:14:102 msp.c/(3241:3241): Dir lógica: 153
+[INFO] 22:02:14:102 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:17:866 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:17:902 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:17:903 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:17:903 msp.c/(3241:3241): Dir lógica: 76
+[INFO] 22:02:17:903 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:18:903 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:18:942 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:18:942 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:18:942 msp.c/(3241:3241): Dir lógica: 80
+[INFO] 22:02:18:942 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:19:943 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:19:982 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:19:982 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:19:982 msp.c/(3241:3241): Dir lógica: 84
+[INFO] 22:02:19:982 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:20:983 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:21:22 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:21:22 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:21:22 msp.c/(3241:3241): Dir lógica: 88
+[INFO] 22:02:21:22 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:22:23 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:22:63 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:22:63 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:22:63 msp.c/(3241:3241): Dir lógica: 92
+[INFO] 22:02:22:63 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:23:64 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:23:102 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:23:102 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:23:102 msp.c/(3241:3241): Dir lógica: 96
+[INFO] 22:02:23:102 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:24:103 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:24:142 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:24:142 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:24:142 msp.c/(3241:3241): Dir lógica: 100
+[INFO] 22:02:24:142 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:25:144 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:25:182 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:25:182 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:25:182 msp.c/(3241:3241): Dir lógica: 104
+[INFO] 22:02:25:183 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:28:185 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:28:222 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:28:222 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:28:222 msp.c/(3241:3241): Dir lógica: 76
+[INFO] 22:02:28:222 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:28:222 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:28:262 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:28:262 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:28:262 msp.c/(3241:3241): Dir lógica: 80
+[INFO] 22:02:28:262 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:28:262 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:28:302 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:28:302 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:28:302 msp.c/(3241:3241): Dir lógica: 81
+[INFO] 22:02:28:302 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:29:303 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:29:342 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:29:342 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:29:342 msp.c/(3241:3241): Dir lógica: 82
+[INFO] 22:02:29:342 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:29:343 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:29:384 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:29:384 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:29:384 msp.c/(3241:3241): Dir lógica: 86
+[INFO] 22:02:29:384 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:29:384 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:29:423 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:29:423 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:29:423 msp.c/(3241:3241): Dir lógica: 90
+[INFO] 22:02:29:423 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:29:424 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:29:462 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:29:462 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:29:462 msp.c/(3241:3241): Dir lógica: 1048576
+[INFO] 22:02:29:462 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:30:463 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:30:503 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:30:503 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:30:503 msp.c/(3241:3241): Dir lógica: 91
+[INFO] 22:02:30:503 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:30:503 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:30:544 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:30:544 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:30:544 msp.c/(3241:3241): Dir lógica: 95
+[INFO] 22:02:30:544 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:30:544 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:30:582 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:30:582 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:30:582 msp.c/(3241:3241): Dir lógica: 96
+[INFO] 22:02:30:582 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:31:593 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:31:630 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:31:630 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:31:630 msp.c/(3241:3241): Dir lógica: 97
+[INFO] 22:02:31:630 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:31:630 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:31:677 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:31:677 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:31:677 msp.c/(3241:3241): Dir lógica: 101
+[INFO] 22:02:31:677 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:34:679 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:34:719 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:34:719 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:34:719 msp.c/(3241:3241): Dir lógica: 164
+[INFO] 22:02:34:719 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:35:732 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:35:772 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:35:772 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:35:772 msp.c/(3241:3241): Dir lógica: 168
+[INFO] 22:02:35:772 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:36:772 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:36:811 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:36:811 msp.c/(3241:3241): PID: 0
+[INFO] 22:02:36:811 msp.c/(3241:3241): Dir lógica: 172
+[INFO] 22:02:36:811 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:39:813 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:39:851 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:39:851 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:39:851 msp.c/(3241:3241): Dir lógica: 157
+[INFO] 22:02:39:851 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:39:851 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:39:891 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:39:891 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:39:891 msp.c/(3241:3241): Dir lógica: 161
+[INFO] 22:02:39:891 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:39:891 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:39:930 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:39:930 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:39:930 msp.c/(3241:3241): Dir lógica: 162
+[INFO] 22:02:39:930 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:40:931 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:40:970 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:40:970 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:40:970 msp.c/(3241:3241): Dir lógica: 166
+[INFO] 22:02:40:970 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:40:970 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:41:11 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:41:11 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:41:11 msp.c/(3241:3241): Dir lógica: 170
+[INFO] 22:02:41:11 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:41:12 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:41:51 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:41:51 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:41:51 msp.c/(3241:3241): Dir lógica: 171
+[INFO] 22:02:41:51 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:42:52 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:42:91 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:42:91 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:42:91 msp.c/(3241:3241): Dir lógica: 175
+[INFO] 22:02:42:91 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:42:91 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:42:130 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:42:130 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:42:130 msp.c/(3241:3241): Dir lógica: 179
+[INFO] 22:02:42:131 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:42:131 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:42:172 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:42:172 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:42:172 msp.c/(3241:3241): Dir lógica: 180
+[INFO] 22:02:42:172 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:43:173 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:43:212 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:43:212 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:43:212 msp.c/(3241:3241): Dir lógica: 181
+[INFO] 22:02:43:212 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:43:213 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:43:250 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:43:251 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:43:251 msp.c/(3241:3241): Dir lógica: 185
+[INFO] 22:02:43:251 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:43:251 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:43:291 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:43:291 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:43:291 msp.c/(3241:3241): Dir lógica: 186
+[INFO] 22:02:43:291 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:47:814 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:47:855 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:47:855 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:47:855 msp.c/(3241:3241): Dir lógica: 190
+[INFO] 22:02:47:856 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:47:856 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:47:894 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:47:894 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:47:894 msp.c/(3241:3241): Dir lógica: 194
+[INFO] 22:02:47:894 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:47:895 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:47:935 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:47:935 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:47:935 msp.c/(3241:3241): Dir lógica: 195
+[INFO] 22:02:47:935 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:48:936 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:48:975 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:48:975 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:48:975 msp.c/(3241:3241): Dir lógica: 196
+[INFO] 22:02:48:975 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:48:975 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:49:14 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:49:14 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:49:14 msp.c/(3241:3241): Dir lógica: 200
+[INFO] 22:02:49:14 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:49:15 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:49:54 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:49:54 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:49:54 msp.c/(3241:3241): Dir lógica: 204
+[INFO] 22:02:49:54 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:49:54 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:49:95 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:49:95 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:49:95 msp.c/(3241:3241): Dir lógica: 205
+[INFO] 22:02:49:95 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:49:95 msp.c/(3241:3241): Una CPU solicito ESCRIBIR
+[INFO] 22:02:49:134 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:49:135 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:49:135 msp.c/(3241:3241): Dir lógica: 124
+[INFO] 22:02:49:135 msp.c/(3241:3241): Tam a escribir: 4
+[INFO] 22:02:49:135 msp.c/(3241:3241): Bytes a ESCRIBIR:
+[INFO] 22:02:50:136 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:50:175 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:50:176 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:50:176 msp.c/(3241:3241): Dir lógica: 206
+[INFO] 22:02:50:176 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:50:176 msp.c/(3241:3241): El Kernel solicito DESTRUIR
+[INFO] 22:02:50:214 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:50:214 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:50:214 msp.c/(3241:3241): BASE: 3145728
+[INFO] 22:02:50:214 msp.c/(3241:3241): El pedido de destruccion de segmento se pudo satisfacer correctamente
+[INFO] 22:02:57:217 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:57:254 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:57:254 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:57:254 msp.c/(3241:3241): Dir lógica: 105
+[INFO] 22:02:57:254 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:57:255 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:57:296 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:57:296 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:57:296 msp.c/(3241:3241): Dir lógica: 109
+[INFO] 22:02:57:296 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:57:296 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:57:334 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:57:334 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:57:334 msp.c/(3241:3241): Dir lógica: 110
+[INFO] 22:02:57:334 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:02:58:335 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:58:375 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:58:375 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:58:376 msp.c/(3241:3241): Dir lógica: 111
+[INFO] 22:02:58:376 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:02:58:376 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:02:58:414 msp.c/(3241:3241): Parametros:
+[INFO] 22:02:58:415 msp.c/(3241:3241): PID: 2
+[INFO] 22:02:58:415 msp.c/(3241:3241): Dir lógica: 115
+[INFO] 22:02:58:415 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:05:244 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:05:291 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:05:292 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:05:292 msp.c/(3241:3241): Dir lógica: 164
+[INFO] 22:03:05:292 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:06:292 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:06:330 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:06:330 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:06:330 msp.c/(3241:3241): Dir lógica: 168
+[INFO] 22:03:06:330 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:07:331 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:07:370 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:07:370 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:07:370 msp.c/(3241:3241): Dir lógica: 172
+[INFO] 22:03:07:370 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:10:372 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:10:410 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:10:410 msp.c/(3241:3241): PID: 2
+[INFO] 22:03:10:410 msp.c/(3241:3241): Dir lógica: 119
+[INFO] 22:03:10:410 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:10:411 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:10:450 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:10:450 msp.c/(3241:3241): PID: 2
+[INFO] 22:03:10:450 msp.c/(3241:3241): Dir lógica: 123
+[INFO] 22:03:10:450 msp.c/(3241:3241): Tam a leer: 1
+[INFO] 22:03:10:450 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:10:490 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:10:490 msp.c/(3241:3241): PID: 2
+[INFO] 22:03:10:490 msp.c/(3241:3241): Dir lógica: 124
+[INFO] 22:03:10:490 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:11:491 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:11:531 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:11:531 msp.c/(3241:3241): PID: 2
+[INFO] 22:03:11:531 msp.c/(3241:3241): Dir lógica: 128
+[INFO] 22:03:11:531 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:11:531 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:11:571 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:11:571 msp.c/(3241:3241): PID: 2
+[INFO] 22:03:11:571 msp.c/(3241:3241): Dir lógica: 132
+[INFO] 22:03:11:571 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:15:372 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:15:411 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:15:411 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:15:411 msp.c/(3241:3241): Dir lógica: 76
+[INFO] 22:03:15:411 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:16:412 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:16:451 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:16:451 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:16:451 msp.c/(3241:3241): Dir lógica: 80
+[INFO] 22:03:16:452 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:17:452 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:17:491 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:17:492 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:17:492 msp.c/(3241:3241): Dir lógica: 84
+[INFO] 22:03:17:492 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:18:493 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:18:530 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:18:530 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:18:530 msp.c/(3241:3241): Dir lógica: 88
+[INFO] 22:03:18:530 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:19:531 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:19:571 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:19:571 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:19:571 msp.c/(3241:3241): Dir lógica: 92
+[INFO] 22:03:19:571 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:20:572 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:20:611 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:20:611 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:20:612 msp.c/(3241:3241): Dir lógica: 96
+[INFO] 22:03:20:612 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:21:612 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:21:651 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:21:651 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:21:651 msp.c/(3241:3241): Dir lógica: 100
+[INFO] 22:03:21:651 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:22:653 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:22:690 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:22:690 msp.c/(3241:3241): PID: 0
+[INFO] 22:03:22:690 msp.c/(3241:3241): Dir lógica: 104
+[INFO] 22:03:22:690 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:26:374 msp.c/(3241:3241): Una CPU solicito LEER
+[INFO] 22:03:26:410 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:26:410 msp.c/(3241:3241): PID: 2
+[INFO] 22:03:26:410 msp.c/(3241:3241): Dir lógica: 136
+[INFO] 22:03:26:410 msp.c/(3241:3241): Tam a leer: 4
+[INFO] 22:03:26:411 msp.c/(3241:3241): El Kernel solicito DESTRUIR
+[INFO] 22:03:26:450 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:26:450 msp.c/(3241:3241): PID: 2
+[INFO] 22:03:26:450 msp.c/(3241:3241): BASE: 1048576
+[INFO] 22:03:26:450 msp.c/(3241:3241): El pedido de destruccion de segmento se pudo satisfacer correctamente
+[INFO] 22:03:26:450 msp.c/(3241:3241): El Kernel solicito DESTRUIR
+[INFO] 22:03:26:491 msp.c/(3241:3241): Parametros:
+[INFO] 22:03:26:491 msp.c/(3241:3241): PID: 2
+[INFO] 22:03:26:491 msp.c/(3241:3241): BASE: 0
+[INFO] 22:03:26:491 msp.c/(3241:3241): El pedido de destruccion de segmento se pudo satisfacer correctamente
+[INFO] 19:43:04:326 msp.c/(2376:2376): CantidadMemoria:1024	CantidadSwapping:4096
+
